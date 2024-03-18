@@ -1,4 +1,5 @@
 # Module 18 Challenge
+[Tableau Public Workbook](https://public.tableau.com/app/profile/reed.erickson/viz/Module18Challenge_17102038717520/LengthofTripVStartingLocation)
 # Exploring Trip Length, Starting Locations, and Temporal Trends in Citi Bike Data
 
 The analysis of trip length, starting locations, and time-based trends in the Citi Bike dataset provides valuable insights into user behavior, spatial patterns, and temporal dynamics within the bike-sharing program in New York City. By visualizing these factors, we can uncover trends that inform operational decisions and enhance the overall program experience.
